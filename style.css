@@ -1,17 +1,39 @@
+*{
+
+    box-sizing: border-box;
+
+}
+
 body {
-
+    font-size: 24px;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    background-color: #777;
+    background-color:#777 ;
     color: #777;
-    width: 960px;
-    font-size: 18px;
+    width: '960px'
     
-}
-
-header{
-
-    background-color: #ebebeb;
-    align-self: center;
 
 
 }
+
+.wrapper{}
+
+#header{}
+
+#nav{}
+
+#content{}
+
+#section{}
+
+#left-box{}
+
+#article{}
+
+#htags{}
+
+#p{}
+
+#aside{}
+
+#footer{}
+
