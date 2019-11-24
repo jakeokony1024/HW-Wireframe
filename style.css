@@ -5,35 +5,73 @@
 }
 
 body {
-    font-size: 24px;
+    font-size: 18px;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     background-color:#777 ;
     color: #777;
+    text-align: center;
+    
+    
+}
+
+#wrapper{
+
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: #777;
     width: '960px'
     
 
-
 }
 
-.wrapper{}
+#header{
 
-#header{}
+    background-color: white;
+}
 
-#nav{}
+#nav{
 
-#content{}
+    background-color: white;
+}
 
-#section{}
+#content{
 
-#left-box{}
+    background-color: white;
+}
 
-#article{}
+#section{
 
-#htags{}
+    background-color: white;
+}
 
-#p{}
+#left-box{
 
-#aside{}
+    background-color: white;
+}
 
-#footer{}
+#article{
+
+    color: white;
+    background-color:#777;
+}
+
+#htags{
+
+    background-color: white;
+}
+
+#p{
+
+    background-color: white;
+}
+
+#aside{
+
+    background-color: white;
+}
+
+#footer{
+
+    background-color: white;
+}
 
