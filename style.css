@@ -1,5 +1,7 @@
 *{
 
+    text-align: center;
+    
     
 
 }
@@ -7,20 +9,17 @@
 body {
     font-size: 18px;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    background-color:#777 ;
+    background-color: #777;
     color: #777;
-    text-align: center;
-    height: 1000px;
-
     
-    
-    
-    
+     
 }
 
 .wrapper{
     margin: auto;
     width: 960px;
+    background-color: #777;
+    height: 100%;
     
 
 
@@ -28,60 +27,80 @@ body {
 
 #header{
 
-    background-color: white;
+    background-color: #ebebeb;
     padding: 30px;
+    border-style: solid;
+    border-bottom-color: #777;
 
 
 }
 
 #nav{
 
-    background-color: white;
+    background-color: #ebebeb;
     padding: 30px;
+    border-style: solid;
+    border-top-color: #777;
 }   
 
 #content{
 
-    background-color: white;
+    background-color: #777;
+    
+    
 }
 
 #section{
 
     background-color: white;
-    float: left;
+    
+    
 }
 
 #left-box{
 
     background-color: white;
-    clear: both;
+    
+    width: 50%;
 }
 
 #article{
 
-    color: white;
+    color: #ebebeb;
     background-color:#777;
+    
+    
+    
 }
 
 #htags{
 
-    background-color: white;
+    background-color: #ebebeb;
+    padding: 10px;
 }
 
 #p{
+    
 
-    background-color: white;
+    background-color: #ebebeb;
+    padding: 10px
+    
 }
 
 #aside{
 
-    background-color: white;
+    background-color: #ebebeb;
+    padding: 10px
+    
+    
+    
     
 }
 
 #footer{
 
-    background-color: white;
+    background-color: #ebebeb;
+    padding: 30px
     
 }
 
